@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as i,a0 as r}from"./chunks/framework.DDjFdjRx.js";const p=JSON.parse('{"title":"Bytecode Vm Gc","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),s={name:"index.md"};function l(d,e,o,c,n,m){return t(),i("div",null,[...e[0]||(e[0]=[r("",4)])])}const B=a(s,[["render",l]]);export{p as __pageData,B as default};
